@@ -1,6 +1,6 @@
 
 function Home() {
-   return "home";
+   return "home 1";
    
     
 }
